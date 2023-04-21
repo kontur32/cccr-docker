@@ -17,6 +17,6 @@ docker compose для CCCR
 
 Загрузить RDF-файл:
 1. Перейти на [страницу загрузки данных в датасе](http://localhost:3030/#/dataset/ds/upload)
-1. Нажмите `select file` и выберите файл для загрузки, например, [этот]()
+1. Нажмите `select file` и выберите файл для загрузки, например, [этот](https://github.com/kontur32/cccr-docker/blob/main/data/example/reestr-klassov-shkoli.rdf)
 1. Нажмите `upload now`
 1. Перейдите в [окно запросов](http://localhost:3030/#/dataset/ds/query) и запустите запрос (черный треугольник в правом верхнем углу окна запроса)
