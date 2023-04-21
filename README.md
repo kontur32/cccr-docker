@@ -2,8 +2,8 @@
 docker compose для CCCR
 
 Что необходимо:
-1. доступ к терминалу (на винде 10 WSL/Ubuntu)
-1. установленный docker
+1. доступ к терминалу (на винде 10 [WSL/Ubuntu](https://learn.microsoft.com/ru-ru/windows/wsl/setup/environment?source=recommendations))
+1. установленный [docker](https://www.docker.com/)
 
 Как запустить:
 1. Запустите докер и войдите в терминал
