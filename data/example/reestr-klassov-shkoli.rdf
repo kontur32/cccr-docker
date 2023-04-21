@@ -1,0 +1,138 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#4b108523-508b-428b-b997-9ed1246253a4">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">0</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">0</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2022-ДО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#8e8bb060-8ea7-447c-99a4-d53f8c809377">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">1</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">1</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2022-НО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#c2d5a0a3-d00a-477b-8a4c-84a792fbf915">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">2</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2021</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">2</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2021-НО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#2125ba31-9b98-4ef5-8834-e0ab77199be6">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">3</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2020</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">3</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2020-НО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#0816ed28-41b8-4d86-b1d8-0e26d2ff093f">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">3м</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2020</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">3</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2020-НО-математический"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#e16b117b-875b-4549-8ea4-052f67aa10e0">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">4</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2019</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">4</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2019-НО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#c905410c-f3df-49b2-993c-a24d999fdbcc">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">5а</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">5</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2022-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#fcc81032-c9bb-49d4-b0a7-6ecd5afe7146">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">5б</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">5</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2022-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#e9e91ced-2aa2-4d45-af4d-05b1a0eacb59">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">5л</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">5</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2022-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#81d0d3ae-84b8-43ca-85a6-74a0b1404e9a">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">6</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2021</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">6</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2021-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#20cfe62d-a002-49e3-a2d6-11f25d825a35">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">7</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2020</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">7</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2020-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#c5fa49e4-32e4-4b95-aba4-d40a33892f84">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">8</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2019</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">8</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2019-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#f269fba4-e555-4439-bf33-1aa80f193418">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">9а</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2018</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">9</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2018-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#7ddb4a8f-adef-4704-8bfc-af34950465c6">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">9б</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2018</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">9</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2018-ОО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#39a0bac5-c6da-4ce8-aa0d-3ff885850944">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">10а</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">10</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2022-СО-базовый"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#34947592-7f92-48dd-b0b3-7b33a6777d4e">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">10б</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2022</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">10</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource=""/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://semantics.lipers24.ru/ресурсы/учебныеКлассы#77a45aa6-c3ba-4335-9330-92fa52e04de9">
+    <rdf:type rdf:resource="https://semantics.lipers24.ru/онтология/учебныйКласс"/>
+    <lip:учебныйГод xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://dbpedia.org/resourses/2022"/>
+    <lip:название xmlns:lip="https://semantics.lipers24.ru/schema/">11</lip:название>
+    <lip:годФормирования xmlns:lip="https://semantics.lipers24.ru/schema/">2021</lip:годФормирования>
+    <lip:годОбучения xmlns:lip="https://semantics.lipers24.ru/schema/">11</lip:годОбучения>
+    <lip:учебныйПлан xmlns:lip="https://semantics.lipers24.ru/schema/" rdf:resource="https://semantics.lipers24.ru/ресурсы/учебныеПланы#2021-СО-базовый"/>
+  </rdf:Description>
+</rdf:RDF>
