@@ -9,7 +9,7 @@ docker compose для CCCR
 1. Запустите докер и войдите в терминал
 1. Клонируте репозиторий
 1. Установите права для чтения и записи на папку с данными [cccr-docker/data](https://github.com/kontur32/cccr-docker/tree/main/data) (и все вложенные) для пользователя, правами которого обладает docker, и запишите путь к этой папке (он потребуется далее)
-1. Перейдите в папку [cccr-docker/docker/](https://github.com/kontur32/cccr-docker/tree/main/docker)
+1. Перейдите в папку [cccr-docker/docker](https://github.com/kontur32/cccr-docker/tree/main/docker)
 1. Запустите сборку образов командой `docker-compose build`
 1. Запустите контейнеры командой `DATA_DIR=полный_путь_к_паке_с_данными docker-compose up -d`
     - можно проверить что запустилось командой `docker-compose ps`
